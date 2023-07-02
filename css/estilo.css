@@ -1,0 +1,45 @@
+#cuerpo {
+    background-color: #000;
+}
+header {
+    background-color: #069;
+    text-align: center;
+    color: #FFF;
+    padding: 10px;
+    height: auto;
+}
+#cabezote {
+    background-color: #8395a7;
+    color: #FFF;
+}
+#infoCancion {
+    color: #FFF;
+}
+aside {
+    background-color: #000;
+    color: #FFF;
+    height: auto;
+}
+footer {
+    color: #000;
+    background-color: #FFF;
+    text-align: center;
+    height: auto;
+}
+.imgCantantes {
+    width: 100%;
+    height: 30%;
+    border: solid 2px #c8d6e5;
+}
+#imgSonando {
+    width: 40%;
+    height: 40%;
+}
+#nombreCantante {
+    color: #CCC;
+    background-color: #066;
+    padding: 5px;
+}
+aside .pistas {
+    background-color: #000;
+}
